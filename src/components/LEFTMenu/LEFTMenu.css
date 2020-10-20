@@ -1,0 +1,23 @@
+.LEFTMenu {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #717171!important;
+}
+
+.ant-btn-primary {
+    background: #717171!important;
+    border-color: #414141!important;
+}
+
+@font-face {
+    font-family: 'iconfont';  /* project id 2076120 */
+    src: url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.eot');
+    src: url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.woff') format('woff'),
+    url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_2076120_vsq9h8itswh.svg#iconfont') format('svg');
+  }
